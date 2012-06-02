@@ -1,4 +1,4 @@
 HTML5-Drag-library
 ==================
 
-This is my first commit
+An HTML5 drag library which works in both desktops and mobile browsers.
